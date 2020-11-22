@@ -177,7 +177,7 @@ let questions = [{
   {
     id: 17,
     question: "The First Mechanical Computer Designed by Charles Babbage was called?",
-    answer: "",
+    answer: "Analytical Engine",
     options: [
       "Super Computer",
       "Abacus",
@@ -210,7 +210,7 @@ let questions = [{
   {
     id: 20,
     question: "The basic operations performed by a computer are",
-    answer: "",
+    answer: "All the above",
     options: [
       "Logical operation",
       "Storage and relative",
