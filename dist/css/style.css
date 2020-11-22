@@ -154,6 +154,7 @@ form {
 }
 
 .award_icon {
+  margin: 2rem;
   display: block;
   font-size: 300px;
   color: #fff;
